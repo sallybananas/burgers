@@ -1,10 +1,10 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: Homework 14 - Eat the Burger!
+// @author: Sal Giani
+// @github: sallybananas
+// @comment: Homework 14 - Handlebars - Eat the Burger!
 
 
 
-// This file is just some extra flair to the project
+// This file is just some extra silliness to the project
 // Funny sound effects using jQuery click listener
 // All sounds are from http://soundbible.com
 
