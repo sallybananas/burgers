@@ -1,4 +1,4 @@
-# :hamburger: Eat Da Burger!
+# :hamburger: Eat Burgers!
 
 
 ### Overview
