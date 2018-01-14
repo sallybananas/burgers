@@ -1,22 +1,20 @@
 {
-  "name": "burger",
+  "name": "burgers",
   "version": "1.0.0",
-  "description": "Eat the Burger! A MySQL, Node, Express, Handlebars restaurant app that lets users input the names of burgers they'd like to eat.",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "4.1.1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/burger.git"
+    "url": "git+https://github.com/sallybananas/burgers.git"
   },
-  "author": "sallybananas",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sallybananas/burgers"
+    "url": "https://github.com/sallybananas/burgers/issues"
   },
   "homepage": "https://github.com/sallybananas/burgers#readme",
   "dependencies": {
